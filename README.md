@@ -1,1 +1,2 @@
-# 2124801030036_LuongNguyenKhoi_LapTrinhWindows_ThucHanh5
+Thực hành Lập trình trên Windows Thủ Dầu Một University
+TDMU, Winforms
